@@ -1,5 +1,12 @@
 # Rails Stuff 🚂
 
+* [Rails projects](#-rails-projects)
+* [Free tutorials](#free-tutorials)
+* [Posts](#posts)
+* [Blogs](#blogs)
+* [Gems](#gems)
+* [Ruby and Ruby On Rails Jobs](#ruby-and-ruby-on-rails-jobs-)
+
 ## 📌 Rails projects
 
 [GitHub - gramantin/awesome-rails: A curated list of awesome things related to Ruby on Rails](https://github.com/gramantin/awesome-rails#open-source-rails-apps)
