@@ -76,17 +76,10 @@
 | **Fast Ruby** | [https://www.fastruby.io/blog](https://www.fastruby.io/blog) |
 | **Ruby Yagi** | [https://rubyyagi.com/](https://rubyyagi.com/) |
 | **Ruby Guides** | [https://www.rubyguides.com/ruby-post-index/](https://www.rubyguides.com/ruby-post-index/) |
-
+| **The Leaf Node** | [https://theleafnode.com/](https://theleafnode.com/) | 
 
 ## Gems 💎
 
 [Ruby on Rails Tools & Gems | GoRails](https://gorails.com/tool_categories/)
 
 [The Ruby Toolbox - Know your options!](https://www.ruby-toolbox.com/)
-
-
-## **Ruby and Ruby On Rails Jobs** 💼
-
-[Ruby On Remote: Remote jobs for Ruby developers](https://rubyonremote.com/)
-
-[Ruby on Rails Job Board](https://jobs.gorails.com/)
