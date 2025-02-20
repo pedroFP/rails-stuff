@@ -5,7 +5,6 @@
 * [Posts](#posts)
 * [Blogs](#blogs)
 * [Gems](#gems)
-* [Ruby and Ruby On Rails Jobs](#ruby-and-ruby-on-rails-jobs-)
 
 ## Rails projects 📌
 
@@ -67,6 +66,9 @@
 
 | Title | Link 🔗 |
 | --- | --- |
+| **Ruby on Rails Blog** | [https://rubyonrails.org/blog/](https://rubyonrails.org/blog/) |
+| **Ruby Weekly** | [https://rubyweekly.com/](https://rubyweekly.com/) | 
+| **Rubyflow** | [https://rubyflow.com](https://rubyflow.com) |
 | **RailsNotes** | [https://railsnotes.xyz/](https://railsnotes.xyz/) |
 | **Arkency Blog** | [https://blog.arkency.com/](https://blog.arkency.com/) |
 | **Evil Martians Blog** | [https://evilmartians.com/chronicles](https://evilmartians.com/chronicles) |
