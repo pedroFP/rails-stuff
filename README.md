@@ -5,6 +5,7 @@
 * [Posts](#posts)
 * [Blogs](#blogs)
 * [Gems](#gems)
+* [Jobs](#jobs)
 
 ## Rails projects 📌
 
@@ -85,3 +86,11 @@
 [Ruby on Rails Tools & Gems | GoRails](https://gorails.com/tool_categories/)
 
 [The Ruby Toolbox - Know your options!](https://www.ruby-toolbox.com/)
+
+## **Jobs** 💼
+
+[Ruby On Remote: Remote jobs for Ruby developers](https://rubyonremote.com/)
+
+[Go Rails Job Board](https://jobs.gorails.com/)
+
+[Ruby On Rails Jobs](https://www.ruby-on-rails-jobs.com/)
