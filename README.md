@@ -5,7 +5,7 @@
 * [Posts](#posts)
 * [Blogs](#blogs)
 * [Gems](#gems)
-* [Jobs](#jobs)
+* [Jobs](#jobs-)
 
 ## Rails projects 📌
 
